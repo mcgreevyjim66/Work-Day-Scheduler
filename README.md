@@ -10,7 +10,7 @@ During this project I used the [Day.js](https://day.js.org/en/) library to work 
 
 ## Usage
 
-To use the Workday-Scheduler website, please visit < https://mcgreevyjim66.github.io/Work-Day-Scheduler/>
+To use the Workday-Scheduler website, please visit <https://mcgreevyjim66.github.io/Work-Day-Scheduler/>
 
 ## Source
 
